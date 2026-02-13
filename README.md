@@ -121,4 +121,5 @@ This allows real-time remote monitoring.
 ## Author  
 
 Software Design: Siddharth Reddy
+
 Hardware Design: GUNI REDDY CHARAN KUMAR REDDY
