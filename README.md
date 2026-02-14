@@ -1,4 +1,5 @@
-# Multi-Sensor-Smartwatch-with-Real-Time-Monitoring-Through-Cloud
+# Smartwatch System with Real-Time Sensor Monitoring and Cloud Conectivity
+
 
 
 
