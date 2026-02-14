@@ -54,13 +54,13 @@ The controller collects sensor data, processes it, displays it, and uploads it t
 
 ---
 
-- Controller unit
-- Heart rate and SpO₂ sensor
-- Temperature and pressure sensor
-- Compass sensor
-- GPS module
-- Real-time clock module
-- Display module
+- Controller unit (ESP32)
+- Heart rate and SpO₂ sensor (MAX30100/MAX30102)
+- Temperature and pressure sensor (BMP280)
+- Compass sensor (HMC5883L)
+- GPS module (NEO-6M)
+- Real-time clock module (DS1307)
+- Display module (ST7789 TFT)
 - Push buttons
 - Power supply
 
