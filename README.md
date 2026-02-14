@@ -137,6 +137,15 @@ The GPS module continuously sends location data such as latitude and longitude t
   <img src="Media/Board1.jpeg" width="45%" />
 </p>
 
+<p align="center">
+  <img src="Media/Board.jpeg" width="700"/>
+</p>
+
+### Back View
+
+<p align="center">
+  <img src="Media/Board1.jpeg" width="700"/>
+</p>
 ---
 
 - Controller unit (ESP32)
