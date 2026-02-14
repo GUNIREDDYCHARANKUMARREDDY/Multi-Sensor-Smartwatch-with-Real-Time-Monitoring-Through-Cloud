@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Multi-Sensor Smartwatch is a wearable embedded system designed to monitor health, environmental, and location parameters in real time. The system collects data from multiple sensors and uploads it to the cloud, allowing users to monitor the data remotely.
+The Multi-Sensor Smartwatch is a wearable embedded system designed to monitor health, environment, and location parameters in real time. The system collects data from multiple sensors and uploads it to the cloud, allowing users to monitor the data remotely.
 
 This project integrates health monitoring, environmental sensing, location tracking, and cloud connectivity into a single smartwatch system.
 
