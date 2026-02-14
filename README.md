@@ -200,9 +200,7 @@ The system connects to the Firebase Realtime Database using WiFi. The controller
 
 ## Video Demo
 
-Click the image below to watch the demo:
-
-[![Watch Demo](images/hardware.jpg)](Media/demo.mp4)
+[Click here to watch the demo video](https://github.com/GUNIREDDYCHARANKUMARREDDY/2D-Indoor-Localization-utilizing-WiFi-Channel-State-Information-and-Deep-Learning-Employing-ESP32/blob/main/real%20time%20deployment.mp4)
 
 
 
