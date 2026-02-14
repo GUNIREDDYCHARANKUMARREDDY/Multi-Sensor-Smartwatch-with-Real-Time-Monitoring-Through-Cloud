@@ -38,6 +38,15 @@ The system consists of a controller connected to multiple sensors, display, GPS 
 
 ---
 
+### Button Pin Configuration
+
+| Button Name | ESP32 Pin | Function |
+|-------------|-----------|----------|
+| UP Button   | GPIO 25   | Navigate up in menu |
+| DOWN Button | GPIO 26   | Navigate down in menu |
+| OK Button   | GPIO 14   | Select menu option / Confirm selection |
+| MENU Button | GPIO 33   | Open or close menu |
+
 ### I2C Protocol (Inter-Integrated Circuit)
 
 I2C is used to connect multiple sensors using only two wires.
