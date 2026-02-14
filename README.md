@@ -100,7 +100,7 @@ SPI Lines:
 
 SPI protocol is used because it provides faster communication compared to I2C, which is required for updating graphics, text, and sensor data on the display in real time.
 
-
+---
 
 ### UART Protocol – GPS Module
 
