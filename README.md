@@ -27,7 +27,7 @@ This project integrates health monitoring, environmental sensing, location track
 
 ## System Architecture
    
-![Flowchart](images/flowchart.png)
+![Flowchart](Media/Block Diagram.jpeg)
 
 ---
 
