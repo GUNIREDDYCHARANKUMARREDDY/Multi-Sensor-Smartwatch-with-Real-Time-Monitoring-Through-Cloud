@@ -160,19 +160,23 @@ The GPS module continuously sends location data such as latitude and longitude t
 
 ---
 
-## Cloud Integration
+## Cloud Integration using Firebase Realtime Database
 
-The smartwatch uploads the following data to the cloud:
+The smartwatch uses Firebase Realtime Database as the cloud platform to store and monitor sensor data in real time. Firebase provides a secure, scalable, and real-time cloud database that allows instant access to sensor data from anywhere.
 
-- Heart rate
-- SpO₂ level
-- Temperature
-- Pressure
-- Compass direction
-- GPS location
-- Time and date
+Firebase is a cloud service provided by Google that enables real-time data synchronization between devices and cloud storage.
 
-This allows real-time remote monitoring.
+---
+
+## Firebase Realtime Database
+
+![Flowchart](images/cloud.png)
+
+The system connects to the Firebase Realtime Database using WiFi. The controller uploads sensor data periodically to the Firebase cloud.
+
+
+
+
 
 ---
 
