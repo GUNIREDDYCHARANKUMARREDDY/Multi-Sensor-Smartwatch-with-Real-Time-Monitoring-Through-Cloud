@@ -1,4 +1,4 @@
-# Smartwatch System with Real-Time Sensor Monitoring and Cloud Conectivity
+# Smartwatch System with Real-Time Monitoring and Cloud Conectivity
 
 
 
