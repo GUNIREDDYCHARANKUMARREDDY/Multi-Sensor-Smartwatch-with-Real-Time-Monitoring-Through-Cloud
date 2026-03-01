@@ -232,6 +232,6 @@ The system connects to the Firebase Realtime Database using WiFi. The controller
 
 ## Author  
 
-Software Design: Siddharth Reddy
+Software Design: Mallu Sai Siddharth Reddy
 
 Hardware Design: GUNI REDDY CHARAN KUMAR REDDY
